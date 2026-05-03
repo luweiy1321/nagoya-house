@@ -133,6 +133,7 @@ body{font-family:'Hiragino Sans','Noto Sans JP',sans-serif;background:${THEME.bg
 /* ── Header ── */
 header{background:${THEME.primary};color:#fff;padding:24px 20px;text-align:center}
 header h1{font-size:22px;font-weight:700;margin-bottom:6px}
+header .header-right{float:right}
 header p{margin-top:10px;font-size:14px;opacity:0.8}
 header .stats{display:flex;justify-content:center;gap:24px;margin-top:12px;font-size:13px}
 header .stats span{padding:4px 12px;border-radius:20px;background:rgba(255,255,255,0.15)}
@@ -189,7 +190,7 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
 <body>
 
 <header>
-  <h1>🏠 名古屋房屋租售情報</h1>
+  <h1>🏠 名古屋房屋租售情報 <span class="header-right"><button id="btn-export" title="下载CSV">📥 下载全部数据</button></span></h1>
   <p>Nagoya Real Estate — 最新房源データ</p>
   <div class="stats">
     <span>租房 ${totalRentals}件</span>
