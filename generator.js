@@ -261,6 +261,9 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
   const cardsNew     = \`${cardsNew}\`;
   const cardMap = { all: cardsAll, rental: cardsRental, used: cardsUsed, newBuild: cardsNew };
 
+  // Embed full raw data for CSV export
+  window.__NAGOYA_DATA__ = [].concat(rentals).concat(used).concat(newBuilds);
+
   function getCards() {
     return cardMap[currentTab] || cardMap.all;
   }
@@ -318,6 +321,19 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
       currentTab = btn.dataset.tab;
       filterCards();
     });
+  });
+  // Export CSV
+  document.getElementById('btn-export').addEventListener('click', () => {
+    const headers = ['名称','类型','地址','价格/租金','面积','户型','楼层','屋龄','交通','来源'];
+    const rows = window.__NAGOYA_DATA__.map(d => [
+      d.name||'', d.type||'', d.address||'',
+      d.type==='rental' ? (d.rent!=null?d.rent:'--') : (d.price!=null?d.price:'--'),
+      d.area||'', d.layout||'', d.floor||'', d.age!=null?d.age:'', d.transport||'', d.sourceUrl||''
+    ]);
+    const csv = [headers, ...rows].map(r => r.map(c => '"' + String(c).replace(/"/g,'""') + '"').join(',')).join('\n');
+    const blob = new Blob(['\ufeff' + csv], {type:'text/csv;charset=utf-8'});
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+    a.download = 'nagoya_houses.csv'; a.click();
   });
 })();
 </script>
