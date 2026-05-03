@@ -1,0 +1,297 @@
+🚀 Nagoya House Scraper v5
+
+   Chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+   Output: /Users/lw/.openclaw/workspace/coder/nagoya_house/data_puppeteer.json
+
+
+📂 rentals — 0 existing + need 300+
+  rentals/sc_nagoyashichikusa/pg1 ... +104 (total 104)
+  rentals/sc_nagoyashichikusa/pg2 ... +127 (total 231)
+  rentals/sc_nagoyashichikusa/pg3 ... +84 (total 315)
+  rentals/sc_nagoyashichikusa/pg4 ... +105 (total 420)
+  rentals/sc_nagoyashichikusa/pg5 ... +53 (total 473)
+  📋 [pg5] checkpoint saved (473 URLs)
+  📋 After sc_nagoyashichikusa: 473 URLs collected
+  📋 473 new URLs to scrape
+  [1/473] /chintai/jnc_000106477696/ (0 ok)  [2/473] /chintai/jnc_000105370895/ (1 ok)  [3/473] /chintai/jnc_000103858153/ (2 ok)  [4/473] /chintai/jnc_000087924756/ (3 ok)  [5/473] /chintai/jnc_000087987231/ (4 ok)  ⏱ checkpoint (5/473) saved   
+  [6/473] /chintai/jnc_000087933480/ (5 ok)  [7/473] /chintai/jnc_000087911333/ (6 ok)  [8/473] /chintai/jnc_000087987249/ (7 ok)  [9/473] /chintai/jnc_000105939123/ (8 ok)  [10/473] /chintai/jnc_000087987217/ (9 ok)  ⏱ checkpoint (10/473) saved   
+  [11/473] /chintai/jnc_000087987226/ (9 ok)  [12/473] /chintai/jnc_000087987228/ (10 ok)  [13/473] /chintai/jnc_000087987259/ (11 ok)  [14/473] /chintai/jnc_000106796826/ (12 ok)  [15/473] /chintai/jnc_000106605346/ (13 ok)  ⏱ checkpoint (15/473) saved   
+  [16/473] /chintai/jnc_000100797557/ (14 ok)  [17/473] /chintai/jnc_000106767062/ (15 ok)  [18/473] /chintai/jnc_000106690794/ (16 ok)  [19/473] /chintai/jnc_000106890430/ (17 ok)  [20/473] /chintai/jnc_000106651844/ (18 ok)  ⏱ checkpoint (20/473) saved   
+  [21/473] /chintai/jnc_000093088820/ (19 ok)  [22/473] /chintai/jnc_000078856693/ (20 ok)  [23/473] /chintai/jnc_000106243038/ (21 ok)  [24/473] /chintai/jnc_000106723614/ (22 ok)  [25/473] /chintai/jnc_000018080378/ (23 ok)  ⏱ checkpoint (25/473) saved   
+  [26/473] /chintai/jnc_000080774149/ (24 ok)  [27/473] /chintai/jnc_000106819186/ (25 ok)  [28/473] /chintai/jnc_000041412378/ (26 ok)  [29/473] /chintai/jnc_000083394288/ (27 ok)  [30/473] /chintai/jnc_000100731829/ (28 ok)  ⏱ checkpoint (30/473) saved   
+  [31/473] /chintai/jnc_000100731834/ (29 ok)  [32/473] /chintai/jnc_000100731824/ (30 ok)  [33/473] /chintai/jnc_000106865208/ (31 ok)  [34/473] /chintai/jnc_000105345576/ (32 ok)  [35/473] /chintai/jnc_000105820427/ (33 ok)  ⏱ checkpoint (35/473) saved   
+  [36/473] /chintai/jnc_000106169601/ (34 ok)  [37/473] /chintai/jnc_000106169600/ (35 ok)  [38/473] /chintai/jnc_000105498692/ (36 ok)  [39/473] /chintai/jnc_000093279238/ (37 ok)  [40/473] /chintai/jnc_000076513735/ (38 ok)  ⏱ checkpoint (40/473) saved   
+  [41/473] /chintai/jnc_000104434677/ (39 ok)  [42/473] /chintai/jnc_000105705395/ (40 ok)  [43/473] /chintai/jnc_000106275605/ (41 ok)  [44/473] /chintai/jnc_000105345580/ (42 ok)  [45/473] /chintai/jnc_000106332072/ (43 ok)  ⏱ checkpoint (45/473) saved   
+  [46/473] /chintai/jnc_000105623628/ (44 ok)  [47/473] /chintai/jnc_000106602370/ (45 ok)  [48/473] /chintai/jnc_000105345579/ (46 ok)  [49/473] /chintai/jnc_000104958944/ (47 ok)  [50/473] /chintai/jnc_000106169599/ (48 ok)  ⏱ checkpoint (50/473) saved   
+  [51/473] /chintai/jnc_000106424825/ (49 ok)  [52/473] /chintai/jnc_000105229242/ (50 ok)  [53/473] /chintai/jnc_000106814384/ (51 ok)  [54/473] /chintai/jnc_000063277455/ (52 ok)  [55/473] /chintai/jnc_000105990293/ (53 ok)  ⏱ checkpoint (55/473) saved   
+  [56/473] /chintai/jnc_000106083587/ (54 ok)  [57/473] /chintai/jnc_000105338983/ (55 ok)  [58/473] /chintai/jnc_000087770004/ (56 ok)  [59/473] /chintai/jnc_000106083586/ (57 ok)  [60/473] /chintai/jnc_000105174201/ (58 ok)  ⏱ checkpoint (60/473) saved   
+  [61/473] /chintai/jnc_000106823112/ (59 ok)  [62/473] /chintai/jnc_000105418202/ (60 ok)  [63/473] /chintai/jnc_000106823108/ (61 ok)  [64/473] /chintai/jnc_000082532305/ (62 ok)  [65/473] /chintai/jnc_000106819183/ (63 ok)  ⏱ checkpoint (65/473) saved   
+  [66/473] /chintai/jnc_000105321386/ (64 ok)  [67/473] /chintai/jnc_000067545382/ (65 ok)  [68/473] /chintai/jnc_000055348752/ (66 ok)  [69/473] /chintai/jnc_000106075622/ (67 ok)  [70/473] /chintai/jnc_000105889063/ (68 ok)  ⏱ checkpoint (70/473) saved   
+  [71/473] /chintai/jnc_000105061605/ (69 ok)  [72/473] /chintai/jnc_000105321379/ (70 ok)  [73/473] /chintai/jnc_000106814376/ (71 ok)  [74/473] /chintai/jnc_000105538035/ (72 ok)  [75/473] /chintai/jnc_000106571664/ (73 ok)  ⏱ checkpoint (75/473) saved   
+  [76/473] /chintai/jnc_000105592403/ (74 ok)  [77/473] /chintai/jnc_000062876576/ (75 ok)  [78/473] /chintai/jnc_000105359962/ (76 ok)  [79/473] /chintai/jnc_000106286577/ (77 ok)  [80/473] /chintai/jnc_000102347261/ (78 ok)  ⏱ checkpoint (80/473) saved   
+  [81/473] /chintai/jnc_000102097843/ (79 ok)  [82/473] /chintai/jnc_000106503150/ (80 ok)  [83/473] /chintai/jnc_000106503148/ (81 ok)  [84/473] /chintai/jnc_000106503149/ (82 ok)  [85/473] /chintai/jnc_000106132455/ (83 ok)  ⏱ checkpoint (85/473) saved   
+  [86/473] /chintai/jnc_000106503151/ (84 ok)  [87/473] /chintai/jnc_000106503153/ (85 ok)  [88/473] /chintai/jnc_000106068614/ (86 ok)  [89/473] /chintai/jnc_000106503152/ (87 ok)  [90/473] /chintai/jnc_000105854500/ (88 ok)  ⏱ checkpoint (90/473) saved   
+  [91/473] /chintai/jnc_000106132456/ (89 ok)  [92/473] /chintai/jnc_000106503146/ (90 ok)  [93/473] /chintai/jnc_000106132454/ (90 ok)  [94/473] /chintai/jnc_000106503147/ (91 ok)  [95/473] /chintai/jnc_000106114975/ (92 ok)  ⏱ checkpoint (95/473) saved   
+  [96/473] /chintai/jnc_000105107139/ (93 ok)  [97/473] /chintai/jnc_000105460425/ (94 ok)  [98/473] /chintai/jnc_000105408637/ (95 ok)  [99/473] /chintai/jnc_000102012919/ (96 ok)  [100/473] /chintai/jnc_000083762413/ (97 ok)  ⏱ checkpoint (100/473) saved   
+  [101/473] /chintai/jnc_000083744919/ (98 ok)  [102/473] /chintai/jnc_000096912751/ (99 ok)  [103/473] /chintai/jnc_000082149712/ (100 ok)  [104/473] /chintai/jnc_000103047692/ (101 ok)  [105/473] /chintai/jnc_000091685254/ (102 ok)  ⏱ checkpoint (105/473) saved   
+  [106/473] /chintai/jnc_000106872400/ (103 ok)  [107/473] /chintai/jnc_000105794370/ (104 ok)  [108/473] /chintai/jnc_000016533087/ (105 ok)  [109/473] /chintai/jnc_000106856910/ (106 ok)  [110/473] /chintai/jnc_000105338998/ (107 ok)  ⏱ checkpoint (110/473) saved   
+  [111/473] /chintai/jnc_000106699038/ (108 ok)  [112/473] /chintai/jnc_000106884150/ (109 ok)  [113/473] /chintai/jnc_000104601031/ (110 ok)  [114/473] /chintai/jnc_000106416456/ (111 ok)  [115/473] /chintai/jnc_000101100663/ (112 ok)  ⏱ checkpoint (115/473) saved   
+  [116/473] /chintai/jnc_000101100668/ (113 ok)  [117/473] /chintai/jnc_000101100664/ (114 ok)  [118/473] /chintai/jnc_000101100666/ (115 ok)  [119/473] /chintai/jnc_000101100662/ (116 ok)  [120/473] /chintai/jnc_000101100665/ (117 ok)  ⏱ checkpoint (120/473) saved   
+  [121/473] /chintai/jnc_000101100674/ (118 ok)  [122/473] /chintai/jnc_000101100671/ (119 ok)  [123/473] /chintai/jnc_000101100677/ (120 ok)  [124/473] /chintai/jnc_000101100672/ (121 ok)  [125/473] /chintai/jnc_000101100678/ (122 ok)  ⏱ checkpoint (125/473) saved   
+  [126/473] /chintai/jnc_000101100670/ (123 ok)  [127/473] /chintai/jnc_000101100679/ (124 ok)  [128/473] /chintai/jnc_000101100676/ (125 ok)  [129/473] /chintai/jnc_000106773609/ (126 ok)  [130/473] /chintai/jnc_000105866389/ (127 ok)  ⏱ checkpoint (130/473) saved   
+  [131/473] /chintai/jnc_000106773610/ (128 ok)  [132/473] /chintai/jnc_000106340597/ (129 ok)  [133/473] /chintai/jnc_000106047626/ (130 ok)  [134/473] /chintai/jnc_000106047625/ (131 ok)  [135/473] /chintai/jnc_000106865202/ (132 ok)  ⏱ checkpoint (135/473) saved   
+  [136/473] /chintai/jnc_000106375485/ (133 ok)  [137/473] /chintai/jnc_000106894835/ (134 ok)  [138/473] /chintai/jnc_000106068609/ (135 ok)  [139/473] /chintai/jnc_000106068610/ (136 ok)  [140/473] /chintai/jnc_000106006930/ (137 ok)  ⏱ checkpoint (140/473) saved   
+  [141/473] /chintai/jnc_000037033903/ (138 ok)  [142/473] /chintai/jnc_000105639700/ (139 ok)  [143/473] /chintai/jnc_000081001427/ (140 ok)  [144/473] /chintai/jnc_000101565040/ (141 ok)  [145/473] /chintai/jnc_000102794857/ (142 ok)  ⏱ checkpoint (145/473) saved   
+  [146/473] /chintai/jnc_000102794858/ (143 ok)  [147/473] /chintai/jnc_000106823115/ (144 ok)  [148/473] /chintai/jnc_000105602312/ (145 ok)  [149/473] /chintai/jnc_000106001310/ (146 ok)  [150/473] /chintai/jnc_000105699703/ (147 ok)  ⏱ checkpoint (150/473) saved   
+  [151/473] /chintai/jnc_000106510645/ (148 ok)  [152/473] /chintai/jnc_000106510646/ (149 ok)  [153/473] /chintai/jnc_000106779965/ (150 ok)  [154/473] /chintai/jnc_000106528235/ (151 ok)  [155/473] /chintai/jnc_000106089061/ (152 ok)  ⏱ checkpoint (155/473) saved   
+  [156/473] /chintai/jnc_000105724586/ (153 ok)  [157/473] /chintai/jnc_000105813854/ (154 ok)  [158/473] /chintai/jnc_000105895783/ (155 ok)  [159/473] /chintai/jnc_000098440091/ (156 ok)  [160/473] /chintai/jnc_000064959107/ (157 ok)  ⏱ checkpoint (160/473) saved   
+  [161/473] /chintai/jnc_000064959106/ (158 ok)  [162/473] /chintai/jnc_000106814392/ (159 ok)  [163/473] /chintai/jnc_000105066144/ (160 ok)  [164/473] /chintai/jnc_000106814391/ (161 ok)  [165/473] /chintai/jnc_000106672140/ (162 ok)  ⏱ checkpoint (165/473) saved   
+  [166/473] /chintai/jnc_000105311065/ (163 ok)  [167/473] /chintai/jnc_000106884156/ (164 ok)  [168/473] /chintai/jnc_000081235117/ (165 ok)  [169/473] /chintai/jnc_000105969501/ (166 ok)  [170/473] /chintai/jnc_000106375488/ (167 ok)  ⏱ checkpoint (170/473) saved   
+  [171/473] /chintai/jnc_000106375487/ (168 ok)  [172/473] /chintai/jnc_000106397577/ (169 ok)  [173/473] /chintai/jnc_000106375489/ (170 ok)  [174/473] /chintai/jnc_000106397578/ (171 ok)  [175/473] /chintai/jnc_000102151840/ (172 ok)  ⏱ checkpoint (175/473) saved   
+  [176/473] /chintai/jnc_000100595865/ (173 ok)  [177/473] /chintai/jnc_000101773485/ (174 ok)  [178/473] /chintai/jnc_000024201142/ (175 ok)  [179/473] /chintai/jnc_000013981055/ (176 ok)  [180/473] /chintai/jnc_000047764100/ (177 ok)  ⏱ checkpoint (180/473) saved   
+  [181/473] /chintai/jnc_000088235051/ (178 ok)  [182/473] /chintai/jnc_000098170996/ (179 ok)  [183/473] /chintai/jnc_000086585966/ (180 ok)  [184/473] /chintai/jnc_000099542650/ (181 ok)  [185/473] /chintai/jnc_000106029869/ (182 ok)  ⏱ checkpoint (185/473) saved   
+  [186/473] /chintai/jnc_000069124043/ (183 ok)  [187/473] /chintai/jnc_000071909039/ (184 ok)  [188/473] /chintai/jnc_000104224857/ (185 ok)  [189/473] /chintai/jnc_000097808483/ (186 ok)  [190/473] /chintai/jnc_000087739216/ (187 ok)  ⏱ checkpoint (190/473) saved   
+  [191/473] /chintai/jnc_000096424934/ (188 ok)  [192/473] /chintai/jnc_000101814112/ (189 ok)  [193/473] /chintai/jnc_000106767060/ (190 ok)  [194/473] /chintai/jnc_000104093388/ (191 ok)  [195/473] /chintai/jnc_000106047638/ (192 ok)  ⏱ checkpoint (195/473) saved   
+  [196/473] /chintai/jnc_000104691991/ (193 ok)  [197/473] /chintai/jnc_000074815120/ (194 ok)  [198/473] /chintai/jnc_000105530047/ (195 ok)  [199/473] /chintai/jnc_000106489455/ (196 ok)  [200/473] /chintai/jnc_000106243024/ (197 ok)  ⏱ checkpoint (200/473) saved   
+  [201/473] /chintai/jnc_000105056816/ (198 ok)  [202/473] /chintai/jnc_000105969504/ (199 ok)  [203/473] /chintai/jnc_000105969503/ (200 ok)  [204/473] /chintai/jnc_000097561711/ (201 ok)  [205/473] /chintai/jnc_000084486798/ (202 ok)  ⏱ checkpoint (205/473) saved   
+  [206/473] /chintai/jnc_000105530046/ (203 ok)  [207/473] /chintai/jnc_000105091686/ (204 ok)  [208/473] /chintai/jnc_000104657206/ (205 ok)  [209/473] /chintai/jnc_000105740568/ (206 ok)  [210/473] /chintai/jnc_000103697054/ (207 ok)  ⏱ checkpoint (210/473) saved   
+  [211/473] /chintai/jnc_000103697056/ (208 ok)  [212/473] /chintai/jnc_000106785398/ (209 ok)  [213/473] /chintai/jnc_000103697059/ (210 ok)  [214/473] /chintai/jnc_000105623624/ (211 ok)  [215/473] /chintai/jnc_000103697063/ (212 ok)  ⏱ checkpoint (215/473) saved   
+  [216/473] /chintai/jnc_000105399795/ (213 ok)  [217/473] /chintai/jnc_000106229912/ (214 ok)  [218/473] /chintai/jnc_000105399788/ (215 ok)  [219/473] /chintai/jnc_000103697062/ (216 ok)  [220/473] /chintai/jnc_000105623626/ (217 ok)  ⏱ checkpoint (220/473) saved   
+  [221/473] /chintai/jnc_000105623625/ (218 ok)  [222/473] /chintai/jnc_000105399791/ (219 ok)  [223/473] /chintai/jnc_000103697051/ (220 ok)  [224/473] /chintai/jnc_000103697053/ (221 ok)  [225/473] /chintai/jnc_000106055964/ (222 ok)  ⏱ checkpoint (225/473) saved   
+  [226/473] /chintai/jnc_000106062967/ (223 ok)  [227/473] /chintai/jnc_000106062968/ (224 ok)  [228/473] /chintai/jnc_000064356998/ (225 ok)  [229/473] /chintai/jnc_000106890432/ (226 ok)  [230/473] /chintai/jnc_000105212863/ (227 ok)  ⏱ checkpoint (230/473) saved   
+  [231/473] /chintai/jnc_000063540627/ (228 ok)  [232/473] /chintai/jnc_000077672843/ (229 ok)  [233/473] /chintai/jnc_000106021749/ (230 ok)  [234/473] /chintai/jnc_000050371434/ (231 ok)  [235/473] /chintai/jnc_000050522100/ (232 ok)  ⏱ checkpoint (235/473) saved   
+  [236/473] /chintai/jnc_000050397738/ (233 ok)  [237/473] /chintai/jnc_000106884159/ (234 ok)  [238/473] /chintai/jnc_000077538497/ (235 ok)  [239/473] /chintai/jnc_000106495359/ (236 ok)  [240/473] /chintai/jnc_000106495360/ (237 ok)  ⏱ checkpoint (240/473) saved   
+  [241/473] /chintai/jnc_000106734288/ (238 ok)  [242/473] /chintai/jnc_000103340748/ (239 ok)  [243/473] /chintai/jnc_000095743872/ (240 ok)  [244/473] /chintai/jnc_000042646475/ (241 ok)  [245/473] /chintai/jnc_000104204357/ (242 ok)  ⏱ checkpoint (245/473) saved   
+  [246/473] /chintai/jnc_000105732633/ (243 ok)  [247/473] /chintai/jnc_000106420398/ (244 ok)  [248/473] /chintai/jnc_000106420399/ (245 ok)  [249/473] /chintai/jnc_000052621950/ (246 ok)  [250/473] /chintai/jnc_000105530054/ (247 ok)  ⏱ checkpoint (250/473) saved   
+  [251/473] /chintai/jnc_000105866413/ (248 ok)  [252/473] /chintai/jnc_000090291966/ (249 ok)  [253/473] /chintai/jnc_000063064713/ (250 ok)  [254/473] /chintai/jnc_000106636890/ (251 ok)  [255/473] /chintai/jnc_000106235413/ (252 ok)  ⏱ checkpoint (255/473) saved   
+  [256/473] /chintai/jnc_000105985886/ (253 ok)  [257/473] /chintai/jnc_000106006912/ (254 ok)  [258/473] /chintai/jnc_000093018240/ (255 ok)  [259/473] /chintai/jnc_000106685722/ (256 ok)  [260/473] /chintai/jnc_000105909776/ (257 ok)  ⏱ checkpoint (260/473) saved   
+  [261/473] /chintai/jnc_000068516648/ (258 ok)  [262/473] /chintai/jnc_000068861567/ (259 ok)  [263/473] /chintai/jnc_000096896411/ (260 ok)  [264/473] /chintai/jnc_000092295281/ (261 ok)  [265/473] /chintai/jnc_000106884151/ (262 ok)  ⏱ checkpoint (265/473) saved   
+  [266/473] /chintai/jnc_000074355366/ (263 ok)  [267/473] /chintai/jnc_000068521907/ (264 ok)  [268/473] /chintai/jnc_000106651840/ (265 ok)  [269/473] /chintai/jnc_000106462464/ (266 ok)  [270/473] /chintai/jnc_000089249332/ (267 ok)  ⏱ checkpoint (270/473) saved   
+  [271/473] /chintai/jnc_000084052968/ (268 ok)  [272/473] /chintai/jnc_000067946552/ (269 ok)  [273/473] /chintai/jnc_000068217743/ (270 ok)  [274/473] /chintai/jnc_000101841950/ (271 ok)  [275/473] /chintai/jnc_000106884157/ (272 ok)  ⏱ checkpoint (275/473) saved   
+  [276/473] /chintai/jnc_000101092038/ (273 ok)  [277/473] /chintai/jnc_000094809672/ (274 ok)  [278/473] /chintai/jnc_000096496387/ (275 ok)  [279/473] /chintai/jnc_000106833252/ (276 ok)  [280/473] /chintai/jnc_000106173610/ (277 ok)  ⏱ checkpoint (280/473) saved   
+  [281/473] /chintai/jnc_000105740566/ (278 ok)  [282/473] /chintai/jnc_000106571673/ (279 ok)  [283/473] /chintai/jnc_000097180115/ (280 ok)  [284/473] /chintai/jnc_000106011366/ (281 ok)  [285/473] /chintai/jnc_000104904559/ (282 ok)  ⏱ checkpoint (285/473) saved   
+  [286/473] /chintai/jnc_000105673778/ (283 ok)  [287/473] /chintai/jnc_000105956865/ (284 ok)  [288/473] /chintai/jnc_000106528234/ (285 ok)  [289/473] /chintai/jnc_000105652375/ (286 ok)  [290/473] /chintai/jnc_000106890429/ (287 ok)  ⏱ checkpoint (290/473) saved   
+  [291/473] /chintai/jnc_000106790166/ (288 ok)  [292/473] /chintai/jnc_000106790169/ (289 ok)  [293/473] /chintai/jnc_000106790172/ (290 ok)  [294/473] /chintai/jnc_000106790175/ (291 ok)  [295/473] /chintai/jnc_000106790157/ (292 ok)  ⏱ checkpoint (295/473) saved   
+  [296/473] /chintai/jnc_000106790165/ (293 ok)  [297/473] /chintai/jnc_000106790163/ (294 ok)  [298/473] /chintai/jnc_000106790168/ (295 ok)  [299/473] /chintai/jnc_000106790160/ (296 ok)  [300/473] /chintai/jnc_000106790171/ (297 ok)  ⏱ checkpoint (300/473) saved   
+  [301/473] /chintai/jnc_000106790174/ (298 ok)  [302/473] /chintai/jnc_000106790156/ (299 ok)  [303/473] /chintai/jnc_000106790159/ (300 ok)  [304/473] /chintai/jnc_000106790162/ (301 ok)  [305/473] /chintai/jnc_000106790167/ (302 ok)  ⏱ checkpoint (305/473) saved   
+  [306/473] /chintai/jnc_000106790170/ (303 ok)  [307/473] /chintai/jnc_000106790173/ (304 ok)  [308/473] /chintai/jnc_000106790158/ (305 ok)  [309/473] /chintai/jnc_000106790176/ (306 ok)  [310/473] /chintai/jnc_000106790164/ (307 ok)  ⏱ checkpoint (310/473) saved   
+  [311/473] /chintai/jnc_000106790161/ (308 ok)  [312/473] /chintai/jnc_000106796815/ (309 ok)  [313/473] /chintai/jnc_000106819184/ (310 ok)  [314/473] /chintai/jnc_000106796814/ (311 ok)  [315/473] /chintai/jnc_000106796816/ (312 ok)  ⏱ checkpoint (315/473) saved   
+  [316/473] /chintai/jnc_000087904252/ (313 ok)  [317/473] /chintai/jnc_000106169592/ (314 ok)  [318/473] /chintai/jnc_000088000403/ (315 ok)  [319/473] /chintai/jnc_000087981040/ (316 ok)  [320/473] /chintai/jnc_000087904264/ (317 ok)  ⏱ checkpoint (320/473) saved   
+  [321/473] /chintai/jnc_000106223320/ (318 ok)  [322/473] /chintai/jnc_000106075633/ (319 ok)  [323/473] /chintai/jnc_000105243538/ (320 ok)  [324/473] /chintai/jnc_000096119256/ (321 ok)  [325/473] /chintai/jnc_000095698359/ (322 ok)  ⏱ checkpoint (325/473) saved   
+  [326/473] /chintai/jnc_000105995627/ (323 ok)  [327/473] /chintai/jnc_000063214933/ (324 ok)  [328/473] /chintai/jnc_000106062961/ (325 ok)  [329/473] /chintai/jnc_000076893126/ (326 ok)  [330/473] /chintai/jnc_000105338982/ (327 ok)  ⏱ checkpoint (330/473) saved   
+  [331/473] /chintai/jnc_000086978092/ (328 ok)  [332/473] /chintai/jnc_000104664072/ (329 ok)  [333/473] /chintai/jnc_000063214945/ (330 ok)  [334/473] /chintai/jnc_000102353612/ (331 ok)  [335/473] /chintai/jnc_000105973457/ (332 ok)  ⏱ checkpoint (335/473) saved   
+  [336/473] /chintai/jnc_000063214826/ (333 ok)  [337/473] /chintai/jnc_000063214839/ (334 ok)  [338/473] /chintai/jnc_000063214863/ (335 ok)  [339/473] /chintai/jnc_000106015032/ (336 ok)  [340/473] /chintai/jnc_000105107137/ (337 ok)  ⏱ checkpoint (340/473) saved   
+  [341/473] /chintai/jnc_000106752142/ (338 ok)  [342/473] /chintai/jnc_000063214906/ (339 ok)  [343/473] /chintai/jnc_000105408646/ (340 ok)  [344/473] /chintai/jnc_000106698991/ (341 ok)  [345/473] /chintai/jnc_000106185364/ (342 ok)  ⏱ checkpoint (345/473) saved   
+  [346/473] /chintai/jnc_000102407292/ (343 ok)  [347/473] /chintai/jnc_000105673783/ (344 ok)  [348/473] /chintai/jnc_000106630324/ (345 ok)  [349/473] /chintai/jnc_000104811755/ (346 ok)  [350/473] /chintai/jnc_000106769487/ (347 ok)  ⏱ checkpoint (350/473) saved   
+  [351/473] /chintai/jnc_000106680118/ (348 ok)  [352/473] /chintai/jnc_000105681985/ (349 ok)  [353/473] /chintai/jnc_000105294248/ (350 ok)  [354/473] /chintai/jnc_000106894839/ (351 ok)  [355/473] /chintai/jnc_000103745766/ (352 ok)  ⏱ checkpoint (355/473) saved   
+  [356/473] /chintai/jnc_000105408688/ (353 ok)  [357/473] /chintai/jnc_000105820429/ (354 ok)  [358/473] /chintai/jnc_000106047649/ (355 ok)  [359/473] /chintai/jnc_000105919579/ (356 ok)  [360/473] /chintai/jnc_000105117047/ (357 ok)  ⏱ checkpoint (360/473) saved   
+  [361/473] /chintai/jnc_000105764821/ (358 ok)  [362/473] /chintai/jnc_000106571678/ (359 ok)  [363/473] /chintai/jnc_000106656249/ (360 ok)  [364/473] /chintai/jnc_000106672139/ (361 ok)  [365/473] /chintai/jnc_000106441492/ (362 ok)  ⏱ checkpoint (365/473) saved   
+  [366/473] /chintai/jnc_000017622497/ (363 ok)  [367/473] /chintai/jnc_000058611852/ (364 ok)  [368/473] /chintai/jnc_000105699708/ (365 ok)  [369/473] /chintai/jnc_000093012786/ (366 ok)  [370/473] /chintai/jnc_000064433979/ (367 ok)  ⏱ checkpoint (370/473) saved   
+  [371/473] /chintai/jnc_000083959195/ (368 ok)  [372/473] /chintai/jnc_000068852021/ (369 ok)  [373/473] /chintai/jnc_000106856907/ (370 ok)  [374/473] /chintai/jnc_000084668553/ (371 ok)  [375/473] /chintai/jnc_000084668661/ (372 ok)  ⏱ checkpoint (375/473) saved   
+  [376/473] /chintai/jnc_000084668634/ (373 ok)  [377/473] /chintai/jnc_000084668528/ (374 ok)  [378/473] /chintai/jnc_000084668524/ (375 ok)  [379/473] /chintai/jnc_000084668541/ (376 ok)  [380/473] /chintai/jnc_000084668547/ (377 ok)  ⏱ checkpoint (380/473) saved   
+  [381/473] /chintai/jnc_000094495068/ (378 ok)  [382/473] /chintai/jnc_000094009251/ (379 ok)  [383/473] /chintai/jnc_000097940274/ (380 ok)  [384/473] /chintai/jnc_000093248532/ (381 ok)  [385/473] /chintai/jnc_000084668663/ (382 ok)  ⏱ checkpoint (385/473) saved   
+  [386/473] /chintai/jnc_000084668664/ (383 ok)  [387/473] /chintai/jnc_000084668690/ (384 ok)  [388/473] /chintai/jnc_000084668585/ (385 ok)  [389/473] /chintai/jnc_000047637292/ (386 ok)  [390/473] /chintai/jnc_000074988970/ (387 ok)  ⏱ checkpoint (390/473) saved   
+  [391/473] /chintai/jnc_000088243690/ (388 ok)  [392/473] /chintai/jnc_000013987318/ (389 ok)  [393/473] /chintai/jnc_000104502230/ (390 ok)  [394/473] /chintai/jnc_000105426526/ (391 ok)  [395/473] /chintai/jnc_000105509597/ (392 ok)  ⏱ checkpoint (395/473) saved   
+  [396/473] /chintai/jnc_000106625200/ (393 ok)  [397/473] /chintai/jnc_000086989081/ (394 ok)  [398/473] /chintai/jnc_000032456779/ (395 ok)  [399/473] /chintai/jnc_000106803777/ (396 ok)  [400/473] /chintai/jnc_000106803778/ (397 ok)  ⏱ checkpoint (400/473) saved   
+  [401/473] /chintai/jnc_000063575070/ (398 ok)  [402/473] /chintai/jnc_000063575069/ (399 ok)  [403/473] /chintai/jnc_000106362750/ (400 ok)  [404/473] /chintai/jnc_000106336705/ (401 ok)  [405/473] /chintai/jnc_000106122538/ (402 ok)  ⏱ checkpoint (405/473) saved   
+  [406/473] /chintai/jnc_000106098625/ (403 ok)  [407/473] /chintai/jnc_000105724607/ (404 ok)  [408/473] /chintai/jnc_000106621367/ (405 ok)  [409/473] /chintai/jnc_000106898267/ (406 ok)  [410/473] /chintai/jnc_000106223321/ (407 ok)  ⏱ checkpoint (410/473) saved   
+  [411/473] /chintai/jnc_000106901458/ (408 ok)  [412/473] /chintai/jnc_000106823121/ (409 ok)  [413/473] /chintai/jnc_000097398401/ (410 ok)  [414/473] /chintai/jnc_000105764816/ (411 ok)  [415/473] /chintai/jnc_000105399784/ (412 ok)  ⏱ checkpoint (415/473) saved   
+  [416/473] /chintai/jnc_000105973460/ (413 ok)  [417/473] /chintai/jnc_000105889066/ (414 ok)  [418/473] /chintai/jnc_000105903784/ (415 ok)  [419/473] /chintai/jnc_000106107198/ (416 ok)  [420/473] /chintai/jnc_000106163415/ (417 ok)  ⏱ checkpoint (420/473) saved   
+  [421/473] /chintai/jnc_000105440233/ (418 ok)  [422/473] /chintai/jnc_000059410901/ (419 ok)  [423/473] /chintai/jnc_000105749768/ (420 ok)  [424/473] /chintai/jnc_000106814382/ (421 ok)  [425/473] /chintai/jnc_000027962776/ (422 ok)  ⏱ checkpoint (425/473) saved   
+  [426/473] /chintai/jnc_000063682922/ (423 ok)  [427/473] /chintai/jnc_000056223532/ (424 ok)  [428/473] /chintai/jnc_000106243022/ (425 ok)  [429/473] /chintai/jnc_000106672134/ (426 ok)  [430/473] /chintai/jnc_000105061616/ (427 ok)  ⏱ checkpoint (430/473) saved   
+  [431/473] /chintai/jnc_000106397586/ (428 ok)  [432/473] /chintai/jnc_000106901460/ (429 ok)  [433/473] /chintai/jnc_000106489457/ (430 ok)  [434/473] /chintai/jnc_000050108749/ (431 ok)  [435/473] /chintai/jnc_000102334140/ (432 ok)  ⏱ checkpoint (435/473) saved   
+  [436/473] /chintai/jnc_000105408638/ (433 ok)  [437/473] /chintai/jnc_000105580093/ (434 ok)  [438/473] /chintai/jnc_000106516876/ (435 ok)  [439/473] /chintai/jnc_000106698987/ (436 ok)  [440/473] /chintai/jnc_000095705226/ (437 ok)  ⏱ checkpoint (440/473) saved   
+  [441/473] /chintai/jnc_000106075651/ (438 ok)  [442/473] /chintai/jnc_000064442368/ (439 ok)  [443/473] /chintai/jnc_000106856901/ (440 ok)  [444/473] /chintai/jnc_000106481499/ (441 ok)  [445/473] /chintai/jnc_000106206192/ (442 ok)  ⏱ checkpoint (445/473) saved   
+  [446/473] /chintai/jnc_000106630317/ (443 ok)  [447/473] /chintai/jnc_000106630318/ (444 ok)  [448/473] /chintai/jnc_000104336845/ (445 ok)  [449/473] /chintai/jnc_000106630316/ (446 ok)  [450/473] /chintai/jnc_000106362742/ (447 ok)  ⏱ checkpoint (450/473) saved   
+  [451/473] /chintai/jnc_000093088819/ (448 ok)  [452/473] /chintai/jnc_000073930239/ (449 ok)
+  ✅ rental: reached 450 successful details (target 450), stopping early
+
+  ✅ 473 rental details complete
+
+📂 used — 0 existing + need 200+
+  used/sc_nagoyashichikusa/pg1 ... +28 (total 28)
+  used/sc_nagoyashichikusa/pg2 ... +28 (total 56)
+  used/sc_nagoyashichikusa/pg3 ... +27 (total 83)
+  used/sc_nagoyashichikusa/pg4 ... +23 (total 106)
+  used/sc_nagoyashichikusa/pg5 ... +26 (total 132)
+  📋 [pg5] checkpoint saved (132 URLs)
+  used/sc_nagoyashichikusa/pg6 ... +22 (total 154)
+  used/sc_nagoyashichikusa/pg7 ... +24 (total 178)
+  used/sc_nagoyashichikusa/pg8 ... +23 (total 201)
+  used/sc_nagoyashichikusa/pg9 ... +26 (total 227)
+  used/sc_nagoyashichikusa/pg10 ... +21 (total 248)
+  📋 [pg10] checkpoint saved (248 URLs)
+  used/sc_nagoyashichikusa/pg11 ... +23 (total 271)
+  used/sc_nagoyashichikusa/pg12 ... +23 (total 294)
+  used/sc_nagoyashichikusa/pg13 ... +26 (total 320)
+  📋 After sc_nagoyashichikusa: 320 URLs collected
+  📋 320 new URLs to scrape
+  [1/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78857906/ (0 ok)  [2/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20750219/ (1 ok)  [3/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78040791/ (2 ok)  [4/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78796075/ (3 ok)  [5/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20432570/ (4 ok)  ⏱ checkpoint (5/320) saved   
+  [6/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20709456/ (5 ok)  [7/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_73052824/ (6 ok)  [8/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78924354/ (7 ok)  [9/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20730058/ (8 ok)  [10/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20713256/ (9 ok)  ⏱ checkpoint (10/320) saved   
+  [11/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20750423/ (10 ok)  [12/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77497841/ (11 ok)  [13/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77506804/ (12 ok)  [14/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20409367/ (13 ok)  [15/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20249187/ (14 ok)  ⏱ checkpoint (15/320) saved   
+  [16/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79039573/ (15 ok)  [17/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20092187/ (16 ok)  [18/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20412930/ (17 ok)  [19/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79114970/ (18 ok)  [20/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78806503/ (19 ok)  ⏱ checkpoint (20/320) saved   
+  [21/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20612392/ (20 ok)  [22/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_20320308/ (21 ok)  [23/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_20541465/ (22 ok)  [24/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_20097876/ (23 ok)  [25/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_78580852/ (24 ok)  ⏱ checkpoint (25/320) saved   
+  [26/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_20356158/ (25 ok)  [27/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_20039781/ (26 ok)  [28/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78205051/ (27 ok)  [29/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20664487/ (28 ok)  [30/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20109959/ (29 ok)  ⏱ checkpoint (30/320) saved   
+  [31/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20430537/ (30 ok)  [32/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79232122/ (31 ok)  [33/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20743902/ (32 ok)  [34/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20315893/ (33 ok)  [35/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_75115172/ (34 ok)  ⏱ checkpoint (35/320) saved   
+  [36/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20701939/ (35 ok)  [37/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20119975/ (36 ok)  [38/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20744051/ (37 ok)  [39/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20087605/ (38 ok)  [40/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20495616/ (39 ok)  ⏱ checkpoint (40/320) saved   
+  [41/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77886258/ (40 ok)  [42/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20541431/ (41 ok)  [43/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78739516/ (42 ok)  [44/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78843139/ (43 ok)  [45/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20305902/ (44 ok)  ⏱ checkpoint (45/320) saved   
+  [46/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20081067/ (45 ok)  [47/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20555411/ (46 ok)  [48/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20330760/ (47 ok)  [49/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20337103/ (48 ok)  [50/320] /ms/chuko/aichi/sc_nagoyashishowa/nc_20341463/ (49 ok)  ⏱ checkpoint (50/320) saved   
+  [51/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20065374/ (50 ok)  [52/320] /ms/chuko/aichi/sc_nagoyashishowa/nc_20216652/ (51 ok)  [53/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20296290/ (52 ok)  [54/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20035661/ (53 ok)  [55/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78429097/ (54 ok)  ⏱ checkpoint (55/320) saved   
+  [56/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_20541454/ (55 ok)  [57/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20339108/ (56 ok)  [58/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78811429/ (57 ok)  [59/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20601365/ (58 ok)  [60/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20613821/ (59 ok)  ⏱ checkpoint (60/320) saved   
+  [61/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77686812/ (60 ok)  [62/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79078437/ (61 ok)  [63/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_72408373/ (62 ok)  [64/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79167486/ (63 ok)  [65/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20513704/ (64 ok)  ⏱ checkpoint (65/320) saved   
+  [66/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79108703/ (65 ok)  [67/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79114624/ (66 ok)  [68/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20050935/ (67 ok)  [69/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20612412/ (68 ok)  [70/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20368582/ (69 ok)  ⏱ checkpoint (70/320) saved   
+  [71/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_76764048/ (70 ok)  [72/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20468631/ (71 ok)  [73/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20585105/ (72 ok)  [74/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20743117/ (73 ok)  [75/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20777530/ (74 ok)  ⏱ checkpoint (75/320) saved   
+  [76/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20487742/ (75 ok)  [77/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20343013/ (76 ok)  [78/320] /ms/chuko/aichi/sc_nagoyashishowa/nc_20687346/ (77 ok)  [79/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_20592146/ (78 ok)  [80/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20359415/ (79 ok)  ⏱ checkpoint (80/320) saved   
+  [81/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79235162/ (80 ok)  [82/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_20654972/ (81 ok)  [83/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_78384900/ (82 ok)  [84/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20487739/ (83 ok)  [85/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20414387/ (84 ok)  ⏱ checkpoint (85/320) saved   
+  [86/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20381254/ (85 ok)  [87/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20520193/ (86 ok)  [88/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20750220/ (87 ok)  [89/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20679163/ (88 ok)  [90/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20047251/ (89 ok)  ⏱ checkpoint (90/320) saved   
+  [91/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77384321/ (90 ok)  [92/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77438993/ (91 ok)  [93/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20343721/ (92 ok)  [94/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79109428/ (93 ok)  [95/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20701940/ (94 ok)  ⏱ checkpoint (95/320) saved   
+  [96/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20322907/ (95 ok)  [97/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20600290/ (96 ok)  [98/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20541432/ (97 ok)  [99/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20388754/ (98 ok)  [100/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78234116/ (99 ok)  ⏱ checkpoint (100/320) saved   
+  [101/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78547027/ (100 ok)  [102/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20016850/ (101 ok)  [103/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20463314/ (102 ok)  [104/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_20623792/ (103 ok)  [105/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_20146537/ (104 ok)  ⏱ checkpoint (105/320) saved   
+  [106/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_20554259/ (105 ok)  [107/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20756002/ (106 ok)  [108/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78486453/ (107 ok)  [109/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77985970/ (108 ok)  [110/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20571491/ (109 ok)  ⏱ checkpoint (110/320) saved   
+  [111/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20667056/ (110 ok)  [112/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77869991/ (111 ok)  [113/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20610720/ (112 ok)  [114/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79095704/ (113 ok)  [115/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20572160/ (114 ok)  ⏱ checkpoint (115/320) saved   
+  [116/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20519267/ (115 ok)  [117/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20146375/ (116 ok)  [118/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_76050868/ (117 ok)  [119/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78415595/ (118 ok)  [120/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20044354/ (119 ok)  ⏱ checkpoint (120/320) saved   
+  [121/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20750218/ (120 ok)  [122/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20353694/ (121 ok)  [123/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20550606/ (122 ok)  [124/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20719566/ (123 ok)  [125/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20606584/ (124 ok)  ⏱ checkpoint (125/320) saved   
+  [126/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_20317103/ (125 ok)  [127/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_20227864/ (126 ok)  [128/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_20123620/ (127 ok)  [129/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_78381408/ (128 ok)  [130/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_78662180/ (129 ok)  ⏱ checkpoint (130/320) saved   
+  [131/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_20157927/ (130 ok)  [132/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_78115273/ (131 ok)  [133/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78761260/ (132 ok)  [134/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78489323/ (133 ok)  [135/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20388002/ (134 ok)  ⏱ checkpoint (135/320) saved   
+  [136/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78807151/ (135 ok)  [137/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20442235/ (136 ok)  [138/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20105759/ (137 ok)  [139/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20711147/ (138 ok)  [140/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20611566/ (139 ok)  ⏱ checkpoint (140/320) saved   
+  [141/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20089887/ (140 ok)  [142/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_76846144/ (141 ok)  [143/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20340474/ (142 ok)  [144/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20042088/ (143 ok)  [145/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79004632/ (144 ok)  ⏱ checkpoint (145/320) saved   
+  [146/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20536087/ (145 ok)  [147/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20711149/ (146 ok)  [148/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20518726/ (147 ok)  [149/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20525192/ (148 ok)  [150/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20381205/ (149 ok)  ⏱ checkpoint (150/320) saved   
+  [151/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20619874/ (150 ok)  [152/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_20653691/ (151 ok)  [153/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_78828315/ (152 ok)  [154/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_78699552/ (153 ok)  [155/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20354564/ (154 ok)  ⏱ checkpoint (155/320) saved   
+  [156/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20603674/ (155 ok)  [157/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20563269/ (156 ok)  [158/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77549891/ (157 ok)  [159/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77595045/ (158 ok)  [160/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78895818/ (159 ok)  ⏱ checkpoint (160/320) saved   
+  [161/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78038096/ (160 ok)  [162/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20227748/ (161 ok)  [163/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_75177883/ (162 ok)  [164/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20626479/ (163 ok)  [165/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20623322/ (164 ok)  ⏱ checkpoint (165/320) saved   
+  [166/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77991254/ (165 ok)  [167/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20628325/ (166 ok)  [168/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20134868/ (167 ok)  [169/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78856840/ (168 ok)  [170/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77906693/ (169 ok)  ⏱ checkpoint (170/320) saved   
+  [171/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20584480/ (170 ok)  [172/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_20257536/ (171 ok)  [173/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_76302055/ (172 ok)  [174/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_20295305/ (173 ok)  [175/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78776381/ (174 ok)  ⏱ checkpoint (175/320) saved   
+  [176/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_20755794/ (175 ok)  [177/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_78692278/ (176 ok)  [178/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_20221870/ (177 ok)  [179/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78005503/ (178 ok)  [180/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77670259/ (179 ok)  ⏱ checkpoint (180/320) saved   
+  [181/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20458048/ (180 ok)  [182/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78781371/ (181 ok)  [183/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78877646/ (182 ok)  [184/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20608395/ (183 ok)  [185/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77829864/ (184 ok)  ⏱ checkpoint (185/320) saved   
+  [186/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20593087/ (185 ok)  [187/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78978997/ (186 ok)  [188/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20764769/ (187 ok)  [189/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78300359/ (188 ok)  [190/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77932259/ (189 ok)  ⏱ checkpoint (190/320) saved   
+  [191/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20485780/ (190 ok)  [192/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78605597/ (191 ok)  [193/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20269841/ (192 ok)  [194/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20365132/ (193 ok)  [195/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78973035/ (194 ok)  ⏱ checkpoint (195/320) saved   
+  [196/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20414386/ (195 ok)  [197/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20594745/ (196 ok)  [198/320] /ms/chuko/aichi/sc_nagoyashishowa/nc_20381319/ (197 ok)  [199/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20563290/ (198 ok)  [200/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_20341437/ (199 ok)  ⏱ checkpoint (200/320) saved   
+  [201/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20487692/ (200 ok)  [202/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77978298/ (201 ok)  [203/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_75484966/ (201 ok)  [204/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20604817/ (202 ok)  [205/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20701653/ (202 ok)  ⏱ checkpoint (205/320) saved   
+  [206/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20127940/ (203 ok)  [207/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20497060/ (204 ok)  [208/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20316011/ (205 ok)  [209/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20653500/ (206 ok)  [210/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79112967/ (207 ok)  ⏱ checkpoint (210/320) saved   
+  [211/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20674142/ (208 ok)  [212/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_76655720/ (209 ok)  [213/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78581813/ (210 ok)  [214/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77292028/ (211 ok)  [215/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20774049/ (212 ok)  ⏱ checkpoint (215/320) saved   
+  [216/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20392393/ (213 ok)  [217/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_75917304/ (214 ok)  [218/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20067401/ (215 ok)  [219/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77433399/ (216 ok)  [220/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_72073067/ (217 ok)  ⏱ checkpoint (220/320) saved   
+  [221/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20774048/ (218 ok)  [222/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20657134/ (219 ok)  [223/320] /ms/chuko/aichi/sc_nagoyashishowa/nc_78125767/ (220 ok)  [224/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_20337776/ (221 ok)  [225/320] /ms/chuko/aichi/sc_nagoyashimoriyama/nc_78502291/ (222 ok)  ⏱ checkpoint (225/320) saved   
+  [226/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_78664875/ (223 ok)  [227/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_20588925/ (224 ok)  [228/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20119659/ (225 ok)  [229/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_75770287/ (226 ok)  [230/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78679937/ (227 ok)  ⏱ checkpoint (230/320) saved   
+  [231/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20245008/ (228 ok)  [232/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20051732/ (229 ok)  [233/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20641561/ (230 ok)  [234/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20781653/ (231 ok)  [235/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20750223/ (232 ok)  ⏱ checkpoint (235/320) saved   
+  [236/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20559936/ (233 ok)  [237/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20420826/ (234 ok)  [238/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78124882/ (235 ok)  [239/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20017228/ (236 ok)  [240/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20317232/ (237 ok)  ⏱ checkpoint (240/320) saved   
+  [241/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20330921/ (238 ok)  [242/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_76786265/ (239 ok)  [243/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20006593/ (240 ok)  [244/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20009451/ (241 ok)  [245/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20416742/ (242 ok)  ⏱ checkpoint (245/320) saved   
+  [246/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78745351/ (243 ok)  [247/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78614572/ (244 ok)  [248/320] /ms/chuko/aichi/sc_nagoyashihigashi/nc_79231075/ (245 ok)  [249/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20641562/ (246 ok)  [250/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77166386/ (247 ok)  ⏱ checkpoint (250/320) saved   
+  [251/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20319620/ (248 ok)  [252/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20207220/ (249 ok)  [253/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20643442/ (250 ok)  [254/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20509608/ (251 ok)  [255/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20629162/ (252 ok)  ⏱ checkpoint (255/320) saved   
+  [256/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20670933/ (253 ok)  [257/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20005572/ (254 ok)  [258/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78202041/ (255 ok)  [259/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20051038/ (256 ok)  [260/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20490116/ (257 ok)  ⏱ checkpoint (260/320) saved   
+  [261/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20389053/ (258 ok)  [262/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20010596/ (259 ok)  [263/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20772565/ (260 ok)  [264/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20079690/ (261 ok)  [265/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20335153/ (262 ok)  ⏱ checkpoint (265/320) saved   
+  [266/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77212390/ (263 ok)  [267/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78695821/ (264 ok)  [268/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78980459/ (265 ok)  [269/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_78170044/ (266 ok)  [270/320] /ms/chuko/aichi/sc_nagoyashinaka/nc_20359467/ (267 ok)  ⏱ checkpoint (270/320) saved   
+  [271/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_79104461/ (268 ok)  [272/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78701909/ (269 ok)  [273/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20091571/ (270 ok)  [274/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20600623/ (271 ok)  [275/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20777581/ (272 ok)  ⏱ checkpoint (275/320) saved   
+  [276/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20560155/ (273 ok)  [277/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20090534/ (274 ok)  [278/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_73984418/ (275 ok)  [279/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_73882091/ (276 ok)  [280/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20584448/ (277 ok)  ⏱ checkpoint (280/320) saved   
+  [281/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78038411/ (278 ok)  [282/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20146377/ (279 ok)  [283/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78138377/ (280 ok)  [284/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78058846/ (281 ok)  [285/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78036867/ (282 ok)  ⏱ checkpoint (285/320) saved   
+  [286/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79070825/ (283 ok)  [287/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77359210/ (284 ok)  [288/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20514068/ (284 ok)  [289/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78477129/ (285 ok)  [290/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79049422/ (286 ok)  ⏱ checkpoint (290/320) saved   
+  [291/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79179730/ (287 ok)  [292/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_20632525/ (288 ok)  [293/320] /ms/chuko/aichi/sc_nagoyashimeito/nc_20642973/ (289 ok)  [294/320] /ms/chuko/aichi/sc_nagoyashitempaku/nc_78659985/ (290 ok)  [295/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79065587/ (291 ok)  ⏱ checkpoint (295/320) saved   
+  [296/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78977869/ (292 ok)  [297/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_78978837/ (293 ok)  [298/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_79059459/ (294 ok)  [299/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20733369/ (295 ok)  [300/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20348814/ (296 ok)  ⏱ checkpoint (300/320) saved   
+  [301/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77872334/ (297 ok)  [302/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_77535074/ (298 ok)  [303/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20589687/ (298 ok)  [304/320] /ms/chuko/aichi/sc_nagoyashichikusa/nc_20534539/ (299 ok)
+  ✅ used: reached 300 successful details (target 300), stopping early
+
+  ✅ 320 used details complete
+
+📂 new_builds — 0 existing + need 100+
+  new_builds/sc_nagoyashichikusa/pg1 ... +31 (total 31)
+  new_builds/sc_nagoyashichikusa/pg2 ... +6 (total 37)
+  new_builds/sc_nagoyashichikusa/pg3 ... +1 (total 38)
+  new_builds/sc_nagoyashichikusa/pg4 ... +1 (total 39)
+  new_builds/sc_nagoyashichikusa/pg5 ... +0 (total 39)
+  📋 [pg5] checkpoint saved (39 URLs)
+  new_builds/sc_nagoyashichikusa/pg6 ... +0 (total 39)
+  new_builds/sc_nagoyashichikusa/pg7 ... +0 (total 39)
+  new_builds/sc_nagoyashichikusa/pg8 ... +0 (total 39)
+  new_builds/sc_nagoyashichikusa/pg9 ... +0 (total 39)
+  new_builds/sc_nagoyashichikusa/pg10 ... +0 (total 39)
+  📋 [pg10] checkpoint saved (39 URLs)
+  new_builds/sc_nagoyashichikusa/pg11 ... +0 (total 39)
+  new_builds/sc_nagoyashichikusa/pg12 ... +1 (total 40)
+  new_builds/sc_nagoyashichikusa/pg13 ... +0 (total 40)
+  new_builds/sc_nagoyashichikusa/pg14 ... +0 (total 40)
+  new_builds/sc_nagoyashichikusa/pg15 ... +0 (total 40)
+  📋 [pg15] checkpoint saved (40 URLs)
+  new_builds/sc_nagoyashichikusa/pg16 ... +0 (total 40)
+  new_builds/sc_nagoyashichikusa/pg17 ... +0 (total 40)
+  new_builds/sc_nagoyashichikusa/pg18 ... +0 (total 40)
+  new_builds/sc_nagoyashichikusa/pg19 ... +0 (total 40)
+  new_builds/sc_nagoyashichikusa/pg20 ... +0 (total 40)
+  📋 [pg20] checkpoint saved (40 URLs)
+  📋 After sc_nagoyashichikusa: 40 URLs collected
+  new_builds/sc_nagoyashinaka/pg1 ... +24 (total 64)
+  new_builds/sc_nagoyashinaka/pg2 ... +1 (total 65)
+  new_builds/sc_nagoyashinaka/pg3 ... +0 (total 65)
+  new_builds/sc_nagoyashinaka/pg4 ... +0 (total 65)
+  new_builds/sc_nagoyashinaka/pg5 ... +1 (total 66)
+  📋 [pg5] checkpoint saved (66 URLs)
+  new_builds/sc_nagoyashinaka/pg6 ... +1 (total 67)
+  new_builds/sc_nagoyashinaka/pg7 ... +0 (total 67)
+  new_builds/sc_nagoyashinaka/pg8 ... +0 (total 67)
+  new_builds/sc_nagoyashinaka/pg9 ... +0 (total 67)
+  new_builds/sc_nagoyashinaka/pg10 ... +0 (total 67)
+  📋 [pg10] checkpoint saved (67 URLs)
+  new_builds/sc_nagoyashinaka/pg11 ... +0 (total 67)
+  new_builds/sc_nagoyashinaka/pg12 ... +1 (total 68)
+  new_builds/sc_nagoyashinaka/pg13 ... +0 (total 68)
+  new_builds/sc_nagoyashinaka/pg14 ... +0 (total 68)
+  new_builds/sc_nagoyashinaka/pg15 ... +0 (total 68)
+  📋 [pg15] checkpoint saved (68 URLs)
+  new_builds/sc_nagoyashinaka/pg16 ... +0 (total 68)
+  new_builds/sc_nagoyashinaka/pg17 ... +0 (total 68)
+  new_builds/sc_nagoyashinaka/pg18 ... +0 (total 68)
+  new_builds/sc_nagoyashinaka/pg19 ... +0 (total 68)
+  new_builds/sc_nagoyashinaka/pg20 ... +0 (total 68)
+  📋 [pg20] checkpoint saved (68 URLs)
+  📋 After sc_nagoyashinaka: 68 URLs collected
+  new_builds/sc_nagoyashinakamura/pg1 ... +9 (total 77)
+  new_builds/sc_nagoyashinakamura/pg2 ... +0 (total 77)
+  📋 After sc_nagoyashinakamura: 77 URLs collected
+  new_builds/sc_nagoyashinishi/pg1 ... +20 (total 97)
+  new_builds/sc_nagoyashinishi/pg2 ... +0 (total 97)
+  📋 After sc_nagoyashinishi: 97 URLs collected
+  new_builds/sc_nagoyashinakagawa/pg1 ... +8 (total 105)
+  new_builds/sc_nagoyashinakagawa/pg2 ... +0 (total 105)
+  📋 After sc_nagoyashinakagawa: 105 URLs collected
+  new_builds/sc_nagoyashishowa/pg1 ... +20 (total 125)
+  new_builds/sc_nagoyashishowa/pg2 ... +1 (total 126)
+  new_builds/sc_nagoyashishowa/pg3 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg4 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg5 ... +0 (total 126)
+  📋 [pg5] checkpoint saved (126 URLs)
+  new_builds/sc_nagoyashishowa/pg6 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg7 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg8 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg9 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg10 ... +0 (total 126)
+  📋 [pg10] checkpoint saved (126 URLs)
+  new_builds/sc_nagoyashishowa/pg11 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg12 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg13 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg14 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg15 ... +0 (total 126)
+  📋 [pg15] checkpoint saved (126 URLs)
+  new_builds/sc_nagoyashishowa/pg16 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg17 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg18 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg19 ... +0 (total 126)
+  new_builds/sc_nagoyashishowa/pg20 ... +0 (total 126)
+  📋 [pg20] checkpoint saved (126 URLs)
+  📋 After sc_nagoyashishowa: 126 URLs collected
+  new_builds/sc_nagoyashihigashi/pg1 ... +21 (total 147)
+  new_builds/sc_nagoyashihigashi/pg2 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg3 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg4 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg5 ... +0 (total 147)
+  📋 [pg5] checkpoint saved (147 URLs)
+  new_builds/sc_nagoyashihigashi/pg6 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg7 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg8 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg9 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg10 ... +0 (total 147)
+  📋 [pg10] checkpoint saved (147 URLs)
+  new_builds/sc_nagoyashihigashi/pg11 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg12 ... +0 (total 147)
+  new_builds/sc_nagoyashihigashi/pg13 ... ✗ Attempted to use detached Frame 'C94FE2F734403C453E702DCAAB0978C8'.
+  new_builds/sc_nagoyashihigashi/pg14 ... ✗ Attempted to use detached Frame 'C94FE2F734403C453E702DCAAB0978C8'.
+  new_builds/sc_nagoyashihigashi/pg15 ... ✗ Attempted to use detached Frame 'C94FE2F734403C453E702DCAAB0978C8'.
+  📋 [pg15] checkpoint saved (147 URLs)
+  new_builds/sc_nagoyashihigashi/pg16 ... ✗ Attempted to use detached Frame 'C94FE2F734403C453E702DCAAB0978C8'.

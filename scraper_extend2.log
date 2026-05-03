@@ -1,0 +1,26 @@
+🚀 Nagoya House Scraper v5
+
+   Chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+   Output: /Users/lw/.openclaw/workspace/coder/nagoya_house/data_puppeteer.json
+
+
+📂 rentals — 0 existing + need 300+
+  rentals/sc_nagoyashichikusa/pg1 ... +123 (total 123)
+  rentals/sc_nagoyashichikusa/pg2 ... +115 (total 238)
+  rentals/sc_nagoyashichikusa/pg3 ... +112 (total 350)
+  rentals/sc_nagoyashichikusa/pg4 ... +116 (total 466)
+  📋 After sc_nagoyashichikusa: 466 URLs collected
+  📋 466 new URLs to scrape
+  [1/466] /chintai/jnc_000106477696/ (0 ok)  [2/466] /chintai/jnc_000105370895/ (1 ok)  [3/466] /chintai/jnc_000103858153/ (2 ok)  [4/466] /chintai/jnc_000087924756/ (3 ok)  [5/466] /chintai/jnc_000087987231/ (4 ok)  ⏱ checkpoint (5/466) saved   
+  [6/466] /chintai/jnc_000087933480/ (5 ok)  [7/466] /chintai/jnc_000087911333/ (6 ok)  [8/466] /chintai/jnc_000087987249/ (7 ok)  [9/466] /chintai/jnc_000105939123/ (8 ok)  [10/466] /chintai/jnc_000087987217/ (9 ok)  ⏱ checkpoint (10/466) saved   
+  [11/466] /chintai/jnc_000087987226/ (10 ok)  [12/466] /chintai/jnc_000087987228/ (11 ok)  [13/466] /chintai/jnc_000087987259/ (12 ok)  [14/466] /chintai/jnc_000106796826/ (13 ok)  [15/466] /chintai/jnc_000106605346/ (14 ok)  ⏱ checkpoint (15/466) saved   
+  [16/466] /chintai/jnc_000100797557/ (14 ok)ConnectionClosedError: Connection closed.
+    at Connection._rawSend (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Connection.js:106:35)
+    at Connection.send (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Connection.js:99:21)
+    at CdpBrowser._createPageInContext (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Browser.js:200:53)
+    at CdpBrowserContext.newPage (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/BrowserContext.js:140:40)
+    at async CdpBrowser.newPage (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Browser.js:193:16)
+    at async newPage (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:105:13)
+    at async scrapeOne (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:130:13)
+    at async scrapeDetails (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:321:18)
+    at async main (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:390:23)

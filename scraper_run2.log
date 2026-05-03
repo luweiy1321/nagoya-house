@@ -1,0 +1,31 @@
+🚀 Nagoya House Scraper v5
+
+   Chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+   Output: /Users/lw/.openclaw/workspace/coder/nagoya_house/data_puppeteer.json
+
+
+📂 rentals — 0 existing + need 300+
+  📋 Resumed detail checkpoint: 125 total, 54 ok, 71 to scrape
+  📋 71 new URLs to scrape
+  [1/71] /chintai/jnc_000105623625/ (0 ok)  [2/71] /chintai/jnc_000106468979/ (0 ok)  [3/71] /chintai/jnc_000106468975/ (0 ok)  [4/71] /chintai/jnc_000106468906/ (1 ok)  [5/71] /chintai/jnc_000106468986/ (2 ok)  ⏱ checkpoint (5/71) saved   
+  [6/71] /chintai/jnc_000106468915/ (3 ok)  [7/71] /chintai/jnc_000106468922/ (4 ok)  [8/71] /chintai/jnc_000106468930/ (5 ok)  [9/71] /chintai/jnc_000106468965/ (6 ok)  [10/71] /chintai/jnc_000106468974/ (7 ok)  ⏱ checkpoint (10/71) saved   
+  [11/71] /chintai/jnc_000106468970/ (8 ok)  [12/71] /chintai/jnc_000106468981/ (8 ok)  [13/71] /chintai/jnc_000106468978/ (9 ok)  [14/71] /chintai/jnc_000106468910/ (10 ok)  [15/71] /chintai/jnc_000106468990/ (11 ok)  ⏱ checkpoint (15/71) saved   
+  [16/71] /chintai/jnc_000106468919/ (12 ok)  [17/71] /chintai/jnc_000106468925/ (13 ok)  [18/71] /chintai/jnc_000106468934/ (14 ok)  [19/71] /chintai/jnc_000106468945/ (15 ok)  [20/71] /chintai/jnc_000103467933/ (16 ok)  ⏱ checkpoint (20/71) saved   
+  [21/71] /chintai/jnc_000106235431/ (17 ok)  [22/71] /chintai/jnc_000106001314/ (18 ok)  [23/71] /chintai/jnc_000106785399/ (19 ok)  [24/71] /chintai/jnc_000106229914/ (20 ok)  [25/71] /chintai/jnc_000105995633/ (21 ok)  ⏱ checkpoint (25/71) saved   
+  [26/71] /chintai/jnc_000098294104/ (22 ok)  [27/71] /chintai/jnc_000106384570/ (23 ok)  [28/71] /chintai/jnc_000105934749/ (24 ok)  [29/71] /chintai/jnc_000106384569/ (25 ok)  [30/71] /chintai/jnc_000106223319/ (26 ok)  ⏱ checkpoint (30/71) saved   
+  [31/71] /chintai/jnc_000098044734/ (27 ok)  [32/71] /chintai/jnc_000106486042/ (28 ok)  [33/71] /chintai/jnc_000105557206/ (29 ok)  [34/71] /chintai/jnc_000105283592/ (30 ok)  [35/71] /chintai/jnc_000103476199/ (31 ok)  ⏱ checkpoint (35/71) saved   
+  [36/71] /chintai/jnc_000105979043/ (32 ok)  [37/71] /chintai/jnc_000105876052/ (33 ok)  [38/71] /chintai/jnc_000105652374/ (34 ok)  [39/71] /chintai/jnc_000105066136/ (35 ok)  [40/71] /chintai/jnc_000106625192/ (36 ok)  ⏱ checkpoint (40/71) saved   
+  [41/71] /chintai/jnc_000104046013/ (37 ok)  [42/71] /chintai/jnc_000106404146/ (38 ok)  [43/71] /chintai/jnc_000106404145/ (39 ok)  [44/71] /chintai/jnc_000057413274/ (40 ok)  [45/71] /chintai/jnc_000065752369/ (41 ok)  ⏱ checkpoint (45/71) saved   
+  [46/71] /chintai/jnc_000106741789/ (42 ok)  [47/71] /chintai/jnc_000104858431/ (43 ok)  [48/71] /chintai/jnc_000106790154/ (44 ok)  [49/71] /chintai/jnc_000106833249/ (45 ok)  [50/71] /chintai/jnc_000104584493/ (46 ok)  ⏱ checkpoint (50/71) saved   
+  [51/71] /chintai/jnc_000091142277/ (47 ok)  [52/71] /chintai/jnc_000082373592/ (48 ok)  [53/71] /chintai/jnc_000082329329/ (49 ok)  [54/71] /chintai/jnc_000082373593/ (50 ok)  [55/71] /chintai/jnc_000082772682/ (51 ok)  ⏱ checkpoint (55/71) saved   
+  [56/71] /chintai/jnc_000082014804/ (52 ok)  [57/71] /chintai/jnc_000082902890/ (53 ok)  [58/71] /chintai/jnc_000082189337/ (54 ok)ConnectionClosedError: Connection closed.
+    at Connection._rawSend (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Connection.js:106:35)
+    at Connection.send (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Connection.js:99:21)
+    at CdpBrowser._createPageInContext (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Browser.js:200:53)
+    at CdpBrowserContext.newPage (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/BrowserContext.js:140:40)
+    at async CdpBrowser.newPage (/Users/lw/.openclaw/workspace/coder/nagoya_house/node_modules/puppeteer-core/lib/cjs/puppeteer/cdp/Browser.js:193:16)
+    at async newPage (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:105:13)
+    at async scrapeOne (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:130:13)
+    at async scrapeDetails (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:321:18)
+    at async main (/Users/lw/.openclaw/workspace/coder/nagoya_house/scraper_puppeteer.js:390:23)
+EXIT:1
