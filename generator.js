@@ -76,7 +76,8 @@ function card(d) {
   const localImg = 'images/' + name.replace(/[/:\*?"<>|]/g, '_').substring(0,40) + '_0.jpg';
 const finalImgUrl = (imgUrl && fs.existsSync(localImg)) ? localImg : imgUrl;
 const imgBlock = finalImgUrl
-    ? `<div class="card-img" style="background:#e8eef4 url('${finalImgUrl}') center/cover no-repeat;">
+    ? `<div class="card-img">
+         <img src="${finalImgUrl}" alt="${name}" style="width:100%;height:100%;object-fit:cover">
          ${imgCount > 1 ? `<span class="img-badge">+${imgCount - 1}</span>` : ''}
        </div>`
     : `<div class="card-img" style="background:#e8eef4;display:flex;align-items:center;justify-content:center;color:#aaa;font-size:12px;">無圖</div>`;
