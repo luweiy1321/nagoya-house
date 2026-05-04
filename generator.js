@@ -336,8 +336,13 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
     ]);
     const csv = [headers, ...rows].map(r => r.map(c => '"' + String(c).replace(/"/g,'""') + '"').join(',')).join('\n');
     const blob = new Blob(['\ufeff' + csv], {type:'text/csv;charset=utf-8'});
-    const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
-    a.download = 'nagoya_houses.csv'; a.click();
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'nagoya_houses.csv';
+    document.body.appendChild(a);
+    a.dispatchEvent(new MouseEvent('click', {bubbles:true, cancelable:true}));
+    document.body.removeChild(a);
+    URL.revokeObjectURL(a.href);
   });
 })();
 </script>
