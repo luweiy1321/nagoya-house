@@ -266,7 +266,7 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
   const cardMap = { all: cardsAll, rental: cardsRental, used: cardsUsed, newBuild: cardsNew };
 
   // Embed full raw data for CSV export
-  window.__NAGOYA_DATA__ = [].concat(rentals).concat(used).concat(newBuilds);
+  window.__NAGOYA_DATA__ = JSON.parse('${JSON.stringify(all).replace(/'/g, "\\'")}');
 
   function getCards() {
     return cardMap[currentTab] || cardMap.all;
