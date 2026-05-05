@@ -334,7 +334,7 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
       d.type==='rental' ? (d.rent!=null?d.rent:'--') : (d.price!=null?d.price:'--'),
       d.area||'', d.layout||'', d.floor||'', d.age!=null?d.age:'', d.transport||'', d.sourceUrl||''
     ]);
-    const csv = [headers, ...rows].map(r => r.map(c => '"' + String(c).replace(/"/g,'""') + '"').join(',')).join('\n');
+    const csv = [headers, ...rows].map(r => r.map(c => '"' + String(c).replace(/"/g,'""') + '"').join(',')).join(String.fromCharCode(10));
     const blob = new Blob(['\ufeff' + csv], {type:'text/csv;charset=utf-8'});
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
