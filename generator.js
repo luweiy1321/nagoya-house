@@ -247,6 +247,8 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
   <p style="margin-top:4px">本ページは個人學習・情報提供目的で構成されています。最新情報は必ず原本でご確認ください。</p>
 </footer>
 
+<script type="application/json" id="nagoya-data">${JSON.stringify(all).replace(/<\/script/g, '<\\/script')}</script>
+
 <script>
 (function(){
   const grid = document.getElementById('grid');
@@ -266,7 +268,7 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
   const cardMap = { all: cardsAll, rental: cardsRental, used: cardsUsed, newBuild: cardsNew };
 
   // Embed full raw data for CSV export
-  window.__NAGOYA_DATA__ = JSON.parse('${JSON.stringify(all).replace(/'/g, "\\'")}');
+  window.__NAGOYA_DATA__ = JSON.parse(document.getElementById('nagoya-data').textContent);
 
   function getCards() {
     return cardMap[currentTab] || cardMap.all;
