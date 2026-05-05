@@ -310,7 +310,7 @@ footer{text-align:center;padding:24px;font-size:12px;color:${THEME.muted};border
     tabBtns.forEach(btn => {
       const cntEl = btn.querySelector('.cnt');
       const base = parseInt(btn.dataset.total || btn.textContent.match(/\d+/)?.[0] || 0);
-      btn.textContent = btn.dataset.label + (cntEl ? '' : '');
+      btn.textContent = btn.textContent;
     });
   }
 
